@@ -144,6 +144,10 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 }
 </style>
 
+
+
 <html>
+  <body>
   <img src="https://studio.code.org/api/hour/begin_droneuplink.png">
+  </body>
 </html>
