@@ -100,7 +100,7 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 
 ---
 
-*Drone Command - Operation Uplink was developed as part of a Seaworth STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
+*Drone Command - Operation Uplink was developed as part of a Seaworthy STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
 
 <style>
 /* --- Jekyll Slate theme: balanced wide layout --- */
