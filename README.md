@@ -1,5 +1,5 @@
 <!-- Code.org Hour of AI Tracking Pixel -->
-<img src="https://studio.code.org/api/hour/begin_droneuplink.png">
+"https://studio.code.org/api/hour/begin_droneuplink.png"
 
 # A Page for Students, Educators, and Parents
 
