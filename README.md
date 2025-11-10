@@ -2,7 +2,17 @@
 
 **A Page for Students, Educators, and Parents**
 
-The **Enemy Waters** skill map introduces students to Artificial Intelligence–inspired decision-making through a fast, game-based coding experience using **Microsoft MakeCode Arcade**.
+## Student, Click the Play Link Below
+
+| Resource | Description |
+|-----------|--------------|
+| [Play the Skillmap](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
+
+---
+
+## Educators and Parents
+
+The **Drone Command - Operation Uplink** skill map introduces students to Artificial Intelligence–inspired decision-making through a fast, game-based coding experience using **Microsoft MakeCode Arcade**.
 
 Throughout the activity, students will program their own underwater drone to collect data, evade enemy sonar buoys, and safely upload their findings to a Navy ship. They’ll also design a simple **AI Advisor HUD** that utilizes “if/else” logic to make recommendations such as *Collect*, *Upload*, or *Avoid*.*
 
@@ -54,20 +64,12 @@ This activity helps students understand how simple AI-style decision rules can g
 
 Materials available for this lesson include:
 
-- Educator Guide  
-- Google Slides presentation with talking points  
-- Student worksheet (fillable or printable)  
-- Student worksheet example solution  
-- Certificate of completion  
-
 | Resource | Description |
 |-----------|--------------|
-| [Educator Guide](#) | Implementation and facilitation notes |
-| [Slides](#) | Teacher presentation deck |
-| [Student Worksheet](#) | Planning sheet for code and reflection |
-| [Example Worksheet](#) | Answer key with explanations |
-| [Certificate](#) | Printable completion certificate |
-| [Play the Skillmap](#) | Launch the activity in MakeCode Arcade |
+| [Teacher Presentation Slides](https://docs.google.com/presentation/d/1to-6WSOphuHXHLd1mu41ui177xo0vCCvbcJFIn6Wbzg/edit?usp=sharing) | Teacher Presentation Slides |
+| [Student Worksheet for Warm Up](https://drive.google.com/file/d/1nuxveY4dgaspnKVqd20L0yu7sgWJhtiS/view?usp=sharing) | Student Worksheet for Warm Up |
+| [Printable Completion Certificate](https://drive.google.com/file/d/1BIWuhk3jk9zrh-o3ytXXmuqNx6VnhnrG/view?usp=sharing) | Printable Completion Certificate |
+| [Play the Skillmap](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
 
 ---
 
@@ -85,24 +87,15 @@ By completing this skillmap, students will:
 ## Implementation Tips
 
 - Works well in a **45–75 minute** class period.  
-- Suitable for **pairs or small groups**; supports differentiated pacing.  
-- Designed for **Chromebooks and laptops**; touch devices also supported.  
+- Suitable for **individuals, pairs, or small groups**; supports differentiated pacing.  
+- Designed for **Chromebooks and laptops**.  
 - No student accounts required — code is saved locally or as a shareable URL.
 
 ---
 
 ## Accessibility & Safety
 
-All student interactions occur within the MakeCode Arcade editor. No chatbots, external data sharing, or personal accounts are used. The activity adheres to COPPA- and FERPA-compliant classroom use guidelines.
-
----
-
-## Try It Out
-
-- [**Open the Skillmap in MakeCode Arcade**](#)  
-- [**View the Teacher Slides**](#)  
-- [**Download the Educator Guide (PDF)**](#)
-
+All student interactions occur within the MakeCode Arcade editor. No chatbots, external data sharing, or personal accounts are used. The activity adheres to COPPA- and FERPA-compliant guidelines for classroom use.
 ---
 
 *Enemy Waters was developed as part of a Department of Defense STEM learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
