@@ -44,7 +44,7 @@ This activity helps students understand how simple AI-style decision rules can g
 - Loops, collisions, and scoring systems  
 - Abstraction and modular code using custom blocks  
 
-### Standards Alignment
+## Standards Alignment
 
 **CSTA Standards (Grades 9–10):**
 - **3A-AP-13** – Create prototypes using algorithms to solve problems connected to student interests.  
