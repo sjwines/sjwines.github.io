@@ -144,3 +144,6 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 }
 </style>
 
+<!-- Code.org Hour of AI Tracking Pixel -->
+<img src="https://studio.code.org/api/hour/begin_droneuplink.png">
+
