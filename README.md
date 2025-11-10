@@ -2,7 +2,7 @@
 
 ## A Page for Students, Educators, and Parents
 
-## Students, Click the Play Link Below
+## Students, Click the Play Link Below:
 
 | Resource | Description |
 |-----------|--------------|
