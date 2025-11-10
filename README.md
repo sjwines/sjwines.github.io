@@ -86,7 +86,7 @@ By completing this skillmap, students will:
 
 ## Implementation Tips
 
-- Works well in a **45–75 minute** class period.  
+- Works well in a **45–75 minutes** class period. The introduction and warm-up activity may take more time. 
 - Suitable for **individuals, pairs, or small groups**; supports differentiated pacing.  
 - Designed for **Chromebooks and laptops**.  
 - No student accounts required — code is saved locally or as a shareable URL.
