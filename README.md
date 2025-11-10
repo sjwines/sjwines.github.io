@@ -1,4 +1,106 @@
-# sjwines.github.io
+# A Page for Educators & Parents
 
-Test Test
-Landing Page for Drone Command - Operation Uplink
+The **Enemy Waters** skill map introduces students to Artificial Intelligence–inspired decision-making through a fast, game-based coding experience using **Microsoft MakeCode Arcade**.
+
+Throughout the activity, students will program their own underwater drone to collect data, evade enemy sonar buoys, and safely upload their findings to a Navy ship. They’ll also design a simple **AI Advisor HUD** that utilizes “if/else” logic to make recommendations such as *Collect*, *Upload*, or *Avoid*.*
+
+This skillmap is designed for students between the ages of 11 and 16 and takes approximately 60–75 minutes to complete. No previous coding experience is required, and students will not interact with a chatbot during the activity.
+
+6 guided tutorials progressively introduce programming concepts, followed by an open-ended Challenge Lab where students can personalize their game.
+
+| Tutorial                     | Duration | Description |
+| ----------------------------- | -------- | ------------ |
+| **Prepare Your Drone**        | 10 min   | Learn the MakeCode interface, create and move a drone sprite, and follow it with the camera. |
+| **Incoming Ship**             | 12 min   | Create the Navy ship, introduce randomness, and position it safely on screen. |
+| **Enemy Waters**              | 15 min   | Add data shards, roaming sonar buoys, and collision rules. Enable a sonar pulse to disable enemies. |
+| **Upload Complete**           | 8 min    | Add scoring logic and upload rules when touching the ship. Optional “if/else” speed boost logic. |
+| **AI Advisor Online**         | 12 min   | Activate the HUD to display suggestions based on thresholds for *Collect*, *Upload*, and *Avoid.* |
+| **Challenge Lab**             | 10+ min  | Tinker and expand the game by adjusting speed, adding timers, or spawning more buoys. |
+
+**Notes**:
+- Time estimates are approximate; allow extra time for testing, debugging, and creative extensions.
+- Students can remix the final project or continue in the full MakeCode editor for additional challenges.
+
+---
+
+## Learning Objectives
+
+This activity helps students understand how simple AI-style decision rules can guide autonomous behavior while reinforcing key programming concepts such as:
+
+- Sprites, events, and variables  
+- Randomness and conditional logic (`if/else`)  
+- Loops, collisions, and scoring systems  
+- Abstraction and modular code using custom blocks  
+
+### Standards Alignment
+
+**CSTA Standards (Grades 9–10):**
+- **3A-AP-13** – Create prototypes using algorithms to solve problems connected to student interests.  
+- **3A-AP-15** – Justify control-structure choices (tradeoffs in readability/performance).  
+- **3A-AP-16** – Design artifacts using events to initiate instructions.  
+- **3A-AP-17** – Decompose problems into components using procedures/modules.  
+- **3A-CS-01** – Explain how abstractions hide implementation details.
+
+**NGSS Connections:**
+- **HS-ETS1-2** – Design a solution to a complex real-world problem by breaking it into smaller, manageable problems.  
+- **HS-ETS1-3** – Evaluate a solution based on trade-offs between criteria and constraints (e.g., payload weight vs. battery range).  
+- **HS-PS4-5** – Communicate technical information about wave applications in technologies for information transfer (e.g., sonar).  
+
+---
+
+## Lesson Materials
+
+Materials available for this lesson include:
+
+- Educator Guide  
+- Google Slides presentation with talking points  
+- Student worksheet (fillable or printable)  
+- Student worksheet example solution  
+- Certificate of completion  
+
+| Resource | Description |
+|-----------|--------------|
+| [Educator Guide](#) | Implementation and facilitation notes |
+| [Slides](#) | Teacher presentation deck |
+| [Student Worksheet](#) | Planning sheet for code and reflection |
+| [Example Worksheet](#) | Answer key with explanations |
+| [Certificate](#) | Printable completion certificate |
+| [Play the Skillmap](#) | Launch the activity in MakeCode Arcade |
+
+---
+
+## Learning Outcomes
+
+By completing this skillmap, students will:
+
+- Connect computer science concepts to real-world naval engineering contexts.  
+- Design and test an AI-inspired heuristic system using simple decision rules.  
+- Reflect on trade-offs between performance, safety, and data collection in autonomous systems.  
+- Gain confidence in coding, debugging, and creative problem-solving.
+
+---
+
+## Implementation Tips
+
+- Works well in a **45–75 minute** class period.  
+- Suitable for **pairs or small groups**; supports differentiated pacing.  
+- Designed for **Chromebooks and laptops**; touch devices also supported.  
+- No student accounts required — code is saved locally or as a shareable URL.
+
+---
+
+## Accessibility & Safety
+
+All student interactions occur within the MakeCode Arcade editor. No chatbots, external data sharing, or personal accounts are used. The activity adheres to COPPA- and FERPA-compliant classroom use guidelines.
+
+---
+
+## Try It Out
+
+- [**Open the Skillmap in MakeCode Arcade**](#)  
+- [**View the Teacher Slides**](#)  
+- [**Download the Educator Guide (PDF)**](#)
+
+---
+
+*Enemy Waters was developed as part of a Department of Defense STEM learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
