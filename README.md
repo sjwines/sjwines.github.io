@@ -1,3 +1,6 @@
+<!-- Code.org Hour of AI Tracking Pixel -->
+<img src="https://studio.code.org/api/hour/begin_droneuplink.png">
+
 # A Page for Students, Educators, and Parents
 
 ![Game Image](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
@@ -143,7 +146,3 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
   font-size: 17px;
 }
 </style>
-
-<!-- Code.org Hour of AI Tracking Pixel -->
-<img src="https://studio.code.org/api/hour/begin_droneuplink.png" width="1" height="1" alt="Hour of AI Tracker">
-
