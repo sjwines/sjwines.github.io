@@ -69,7 +69,7 @@ Materials available for this lesson include:
 | [Teacher Presentation Slides](https://docs.google.com/presentation/d/1to-6WSOphuHXHLd1mu41ui177xo0vCCvbcJFIn6Wbzg/edit?usp=sharing) | Teacher Presentation Slides |
 | [Student Worksheet for Warm Up](https://drive.google.com/file/d/1nuxveY4dgaspnKVqd20L0yu7sgWJhtiS/view?usp=sharing) | Student Worksheet for Warm Up |
 | [Printable Completion Certificate](https://drive.google.com/file/d/1BIWuhk3jk9zrh-o3ytXXmuqNx6VnhnrG/view?usp=sharing) | Printable Completion Certificate |
-| [Play the Skillmap](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
+| [Play the Game](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
 
 ---
 
