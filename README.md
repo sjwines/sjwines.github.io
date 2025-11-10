@@ -96,6 +96,7 @@ By completing this skillmap, students will:
 ## Accessibility & Safety
 
 All student interactions occur within the MakeCode Arcade editor. No chatbots, external data sharing, or personal accounts are used. The activity adheres to COPPA- and FERPA-compliant guidelines for classroom use.
+
 ---
 
-*Enemy Waters was developed as part of a Department of Defense STEM learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
+*Drone Command - Operation Uplink was developed as part of a Seaworth STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
