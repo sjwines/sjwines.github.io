@@ -100,40 +100,43 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 *Drone Command - Operation Uplink was developed as part of a Seaworth STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
 
 <style>
-/* 1) Blow away the theme’s inner column widths */
-.wrapper, .container, .page, .page-content, .main-content,
-.post, .post-content, .markdown-body, .inner, .content {
-  max-width: 100% !important;
+/* --- Jekyll Pages Theme: Slate — widen content area --- */
+
+/* Slate's main content container */
+.inner,
+.wrapper,
+.page,
+.main-content,
+.markdown-body {
+  max-width: 1200px !important; /* pick your target width */
   width: 100% !important;
-  margin: 0 auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
 }
 
-/* 2) Let the text run wider while keeping readability */
-.markdown-body, .post-content, .main-content, .page-content {
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
-
-/* 3) Some themes limit paragraphs/lists themselves — remove that */
-.markdown-body p, .markdown-body li,
-.post-content p, .post-content li,
-.page-content p, .page-content li {
-  max-width: none !important;    /* removes theme caps like 740px */
-}
-
-/* 4) Optional: set a sensible reading width (uncomment to cap at ~95 characters)
-.markdown-body p, .post-content p, .page-content p {
-  max-width: 95ch !important;
-}
-*/
-
-/* 5) Keep code blocks and tables usable on wider pages */
-.markdown-body pre, .post-content pre, .page-content pre {
-  overflow-x: auto !important;
-}
-.markdown-body table, .post-content table, .page-content table {
-  display: block;
+/* Make code blocks and tables use the full new width nicely */
+.markdown-body pre,
+.markdown-body table {
+  max-width: 100% !important;
   overflow-x: auto;
 }
-</style>
 
+/* Keep it readable on very large screens */
+@media (min-width: 1600px) {
+  .inner,
+  .wrapper,
+  .page,
+  .main-content,
+  .markdown-body {
+    max-width: 1280px !important; /* optional gentle bump on ultrawides */
+  }
+}
+
+/* Slightly relax the default line length feel */
+.markdown-body {
+  line-height: 1.6;
+  font-size: 17px; /* optional: nudge type size for balance */
+}
+</style>
