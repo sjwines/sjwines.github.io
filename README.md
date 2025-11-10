@@ -6,7 +6,7 @@
 
 | Resource | Description |
 |-----------|--------------|
-| [Play the Skillmap](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
+| [Play the Game](https://arcade.makecode.com/--skillmap#github:sjwines/hourofai/forest.md) | Launch The Activity in MakeCode Arcade |
 
 ---
 
