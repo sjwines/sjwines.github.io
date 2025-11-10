@@ -14,7 +14,7 @@ The **Drone Command - Operation Uplink** skill map introduces students to Artifi
 
 Throughout the activity, students will program their own underwater drone to collect data, evade enemy sonar buoys, and safely upload their findings to a Navy ship. They’ll also design a simple **AI Advisor HUD** that utilizes “if/else” logic to make recommendations such as *Collect*, *Upload*, or *Avoid*.*
 
-This skillmap is designed for students between the ages of 11 and 16 and takes approximately 60–75 minutes to complete. No previous coding experience is required, and students will not interact with a chatbot during the activity.
+This skillmap is designed for students between the ages of 13 and 18 and takes approximately 45–75 minutes to complete. No previous coding experience is required.
 
 6 guided tutorials progressively introduce programming concepts, followed by an open-ended Challenge Lab where students can personalize their game.
 
