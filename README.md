@@ -1,4 +1,6 @@
-# A Page for Educators & Parents
+# About Drone Command - Operation Uplink
+
+**A Page for Students, Educators, and Parents**
 
 The **Enemy Waters** skill map introduces students to Artificial Intelligence–inspired decision-making through a fast, game-based coding experience using **Microsoft MakeCode Arcade**.
 
