@@ -1,31 +1,5 @@
 # A Page for Students, Educators, and Parents
 
-<style>
-/* Make page content use nearly full browser width */
-body {
-  margin: 0;
-  padding: 0;
-}
-
-.wrapper,
-.container,
-.main-content,
-.page-content {
-  max-width: 100% !important;
-  width: 95% !important;
-  margin: 0 auto !important;
-  padding: 0 2rem !important; /* small padding for readability */
-}
-
-/* Optional: widen the main text area if the theme has sidebars */
-.main-content p, 
-.main-content li, 
-.page-content p, 
-.page-content li {
-  max-width: 90ch; /* keeps paragraphs readable while still wide */
-}
-</style>
-
 ## Students, Click the Play Link Below:
 
 | Resource | Description |
@@ -124,3 +98,42 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 ---
 
 *Drone Command - Operation Uplink was developed as part of a Seaworth STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
+
+<style>
+/* 1) Blow away the theme’s inner column widths */
+.wrapper, .container, .page, .page-content, .main-content,
+.post, .post-content, .markdown-body, .inner, .content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+/* 2) Let the text run wider while keeping readability */
+.markdown-body, .post-content, .main-content, .page-content {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+/* 3) Some themes limit paragraphs/lists themselves — remove that */
+.markdown-body p, .markdown-body li,
+.post-content p, .post-content li,
+.page-content p, .page-content li {
+  max-width: none !important;    /* removes theme caps like 740px */
+}
+
+/* 4) Optional: set a sensible reading width (uncomment to cap at ~95 characters)
+.markdown-body p, .post-content p, .page-content p {
+  max-width: 95ch !important;
+}
+*/
+
+/* 5) Keep code blocks and tables usable on wider pages */
+.markdown-body pre, .post-content pre, .page-content pre {
+  overflow-x: auto !important;
+}
+.markdown-body table, .post-content table, .page-content table {
+  display: block;
+  overflow-x: auto;
+}
+</style>
+
