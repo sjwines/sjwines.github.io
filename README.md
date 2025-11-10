@@ -1,5 +1,6 @@
-![Game Image](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
 # A Page for Students, Educators, and Parents
+
+![Game Image](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
 
 ## Students, Click the Play Link Below:
 
