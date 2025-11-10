@@ -1,9 +1,10 @@
 # A Page for Students, Educators, and Parents
 
 <style>
-body, .container {
+body, .container, .main-content, .wrapper, .page-content {
   max-width: 1200px !important;
   width: 90% !important;
+  margin: 0 auto !important;
 }
 </style>
 
