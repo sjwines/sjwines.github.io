@@ -1,5 +1,12 @@
 # A Page for Students, Educators, and Parents
 
+<style>
+body, .container {
+  max-width: 1200px !important;
+  width: 90% !important;
+}
+</style>
+
 ## Students, Click the Play Link Below:
 
 | Resource | Description |
