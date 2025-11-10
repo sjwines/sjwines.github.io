@@ -100,43 +100,43 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 *Drone Command - Operation Uplink was developed as part of a Seaworth STEM Challenge learning experience to connect maritime innovation and computer science through engaging, hands-on play.*
 
 <style>
-/* --- Jekyll Pages Theme: Slate — widen content area --- */
+/* --- Jekyll Slate theme: balanced wide layout --- */
 
-/* Slate's main content container */
+/* Main content containers */
 .inner,
 .wrapper,
 .page,
 .main-content,
 .markdown-body {
-  max-width: 1200px !important; /* pick your target width */
-  width: 100% !important;
+  max-width: 1100px !important; /* pull in sides a bit */
+  width: 90% !important;        /* ensures slight margin on very wide screens */
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 24px !important;
-  padding-right: 24px !important;
+  padding-left: 40px !important; /* more breathing room on the sides */
+  padding-right: 40px !important;
 }
 
-/* Make code blocks and tables use the full new width nicely */
+/* Make sure long content stays usable */
 .markdown-body pre,
 .markdown-body table {
   max-width: 100% !important;
   overflow-x: auto;
 }
 
-/* Keep it readable on very large screens */
+/* Slight visual balance for wide screens */
 @media (min-width: 1600px) {
   .inner,
   .wrapper,
   .page,
   .main-content,
   .markdown-body {
-    max-width: 1280px !important; /* optional gentle bump on ultrawides */
+    max-width: 1150px !important;
   }
 }
 
-/* Slightly relax the default line length feel */
+/* Improve text readability */
 .markdown-body {
-  line-height: 1.6;
-  font-size: 24px; /* optional: nudge type size for balance */
+  line-height: 1.7;
+  font-size: 17px;
 }
 </style>
