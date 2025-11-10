@@ -25,8 +25,8 @@ This skillmap is designed for students between the ages of 13 and 18 and takes a
 | **Prepare Your Drone**        | 10 min   | Learn the MakeCode interface, create and move a drone sprite, and follow it with the camera. |
 | **Incoming Ship**             | 12 min   | Create the Navy ship, introduce randomness, and position it safely on screen. |
 | **Enemy Waters**              | 15 min   | Add data shards, roaming sonar buoys, and collision rules. Enable a sonar pulse to disable enemies. |
-| **Upload Complete**           | 8 min    | Add scoring logic and upload rules when touching the ship. Optional “if/else” speed boost logic. |
-| **AI Advisor Online**         | 12 min   | Activate the HUD to display suggestions based on thresholds for *Collect*, *Upload*, and *Avoid.* |
+| **Upload Complete**           | 8 min    | Add scoring logic and upload rules when touching the ship. |
+| **AI Advisor Online**         | 12 min   | Create “if/else” speed boost logic and activate the HUD to display suggestions based on thresholds for *Collect*, *Upload*, and *Avoid.* |
 | **Challenge Lab**             | 10+ min  | Tinker and expand the game by adjusting speed, adding timers, or spawning more buoys. |
 
 **Notes**:
