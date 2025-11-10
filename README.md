@@ -48,15 +48,16 @@ This activity helps students understand how simple AI-style decision rules can g
 
 **CSTA Standards (Grades 9–10):**
 - **3A-AP-13** – Create prototypes using algorithms to solve problems connected to student interests.  
-- **3A-AP-15** – Justify control-structure choices (tradeoffs in readability/performance).  
-- **3A-AP-16** – Design artifacts using events to initiate instructions.  
-- **3A-AP-17** – Decompose problems into components using procedures/modules.  
-- **3A-CS-01** – Explain how abstractions hide implementation details.
+- **3A-AP-15** – Justify the selection of specific control structures by identifying trade-offs related to implementation, readability, and program performance, and by identifying situations where certain control structures are more appropriate than others. 
+- **3A-AP-16** – Design and implement computational artifacts that use events to initiate instructions.
+- **3A-AP-17** – Decompose problems into smaller components through the design and use of functions, classes, or modules. 
+- **3A-CS-01** – Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.
 
 **NGSS Connections:**
-- **HS-ETS1-2** – Design a solution to a complex real-world problem by breaking it into smaller, manageable problems.  
-- **HS-ETS1-3** – Evaluate a solution based on trade-offs between criteria and constraints (e.g., payload weight vs. battery range).  
-- **HS-PS4-5** – Communicate technical information about wave applications in technologies for information transfer (e.g., sonar).  
+- **HS-ETS1-1** – Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.
+- **HS-ETS1-2** – Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering. 
+- **HS-ETS1-3** – Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics. 
+- **HS-ETS1-4** – Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between systems relevant to the problem.
 
 ---
 
