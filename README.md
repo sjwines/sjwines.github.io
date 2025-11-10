@@ -1,4 +1,4 @@
-![GameImage](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/WebsiteBanner.png "Game Image")
+![GameImage](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
 # A Page for Students, Educators, and Parents
 
 ## Students, Click the Play Link Below:
