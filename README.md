@@ -137,6 +137,6 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
 /* Slightly relax the default line length feel */
 .markdown-body {
   line-height: 1.6;
-  font-size: 17px; /* optional: nudge type size for balance */
+  font-size: 24px; /* optional: nudge type size for balance */
 }
 </style>
