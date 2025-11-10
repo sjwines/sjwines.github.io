@@ -1,10 +1,28 @@
 # A Page for Students, Educators, and Parents
 
 <style>
-body, .container, .main-content, .wrapper, .page-content {
-  max-width: 1200px !important;
-  width: 90% !important;
+/* Make page content use nearly full browser width */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper,
+.container,
+.main-content,
+.page-content {
+  max-width: 100% !important;
+  width: 95% !important;
   margin: 0 auto !important;
+  padding: 0 2rem !important; /* small padding for readability */
+}
+
+/* Optional: widen the main text area if the theme has sidebars */
+.main-content p, 
+.main-content li, 
+.page-content p, 
+.page-content li {
+  max-width: 90ch; /* keeps paragraphs readable while still wide */
 }
 </style>
 
