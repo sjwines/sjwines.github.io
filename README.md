@@ -1,6 +1,4 @@
-# About Drone Command - Operation Uplink
-
-## A Page for Students, Educators, and Parents
+# A Page for Students, Educators, and Parents
 
 ## Students, Click the Play Link Below:
 
