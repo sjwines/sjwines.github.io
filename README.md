@@ -1,4 +1,4 @@
-![GameImage](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
+![banner](https://raw.githubusercontent.com/sjwines/hourofai/master/assets/AlternateGameImage.png "Game Image")
 # A Page for Students, Educators, and Parents
 
 ## Students, Click the Play Link Below:
@@ -141,3 +141,19 @@ All student interactions occur within the MakeCode Arcade editor. No chatbots, e
   font-size: 17px;
 }
 </style>
+
+<style>
+/* Make the image with alt="banner" break out full-bleed */
+.markdown-body img[alt="banner"] {
+  width: 100vw !important;
+  max-width: 100vw !important;
+  height: auto !important;
+  display: block !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: calc(50% - 50vw) !important;
+}
+
+/* Optional: add a little vertical spacing */
+.markdown-body img[alt="banner"] { margin-top: 8px; margin-bottom: 16px; }
+</style>
+
